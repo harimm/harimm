@@ -2,7 +2,7 @@
 - 👀  I’m interested in video games and movies (apart from coding)
 - 🌱  I’m currently learning Kotlin and Android
 - 💞️  I’m looking to collaborate on interesting open source projects and games
-- 📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harimohan-mohandas/) 
+- 📫  How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harimohan-mohandas/) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mohanharry)
 
 Stuff I work on
 
